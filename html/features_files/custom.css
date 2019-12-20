@@ -24,3 +24,6 @@ body{
   .human-features-container {
     margin-top: 7%;
   }
+  .human-hidden{
+    display: none;
+    }

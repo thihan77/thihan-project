@@ -24,3 +24,8 @@ body{
   .human-features-container {
     margin-top: 7%;
   }
+  /** commen css**/
+  
+  .human-hidden{
+  display: none;
+  }
